@@ -7,10 +7,10 @@ Soy desarrollador profesional con mas de 10 años de experiencia en diferentes l
 
 ## Skills:
 
-
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/git-E94C30?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![Docker](https://img.shields.io/badge/docker-0DB1E6?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 
 [![Angular](https://img.shields.io/badge/Angular-D6002F?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/react-5ED4F3?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
@@ -26,9 +26,14 @@ Soy desarrollador profesional con mas de 10 años de experiencia en diferentes l
 [![Primeng](https://img.shields.io/badge/primeng-D6002F?style=for-the-badge&logo=primeng&logoColor=white&labelColor=101010)]()
 
 [![PHP](https://img.shields.io/badge/php-474a84?style=for-the-badge&logo=php&logoColor=white&labelColor=black)]()
+[![Codeigniter](https://img.shields.io/badge/codeigniter-D53605?style=for-the-badge&logo=codeigniter&logoColor=white&labelColor=black)]()
+[![Wordpress](https://img.shields.io/badge/wordpress-424242?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=black)]()
+[![Python](https://img.shields.io/badge/python-366B98?style=for-the-badge&logo=python&logoColor=white&labelColor=black)]()
+[![Go](https://img.shields.io/badge/go-00A7D0?style=for-the-badge&logo=go&logoColor=white&labelColor=black)]()
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 </br>
 y más...
