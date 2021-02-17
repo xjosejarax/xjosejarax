@@ -3,7 +3,7 @@
 
 ![https://github.com/xjosejarax](https://blog.piensasolutions.com/wp-content/uploads/2017/10/bannerprogramacion.jpg)
 
-Soy desarrollador profesional con mas de 10 años de experiencia en diferentes lenguajes, analista y busco soluciones.
+Soy profesional con mas de 10 años de experiencia en varios lenguajes, analista y desarrollador de sistemas a medida.
 
 ## Skills:
 
