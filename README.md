@@ -43,3 +43,41 @@ y más...
 [![Twitter](https://img.shields.io/badge/Twitter-@xjosejarax-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/xjosejarax)
 [![Instagram](https://img.shields.io/badge/Instagram-@xjosejarax-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/xjosejarax)
 [![Facebook](https://img.shields.io/badge/Facebook-@xjosejarax-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/xjosejarax)
+
+Sitios webs realizados para
+
+- https://posgrado.uap.edu.pe
+
+- https://iesap.edu.pe/
+
+- https://www.mazda.pe/
+
+- http://jac.pe/camiones/
+
+- http://broncesmarisa.com/
+
+- https://viajesrosario.com/
+
+- http://www.diagnostico-capacidades.gob.pe/
+
+- http://www.paolamarsano.pe/
+
+- http://www.perutrend.com/
+
+- Entre otros
+
+Intranets, para:
+
+- Farmacias peruanas
+
+- Club golf los inkas
+
+- Intercorp
+
+- Banco falabella
+
+- Casa andina
+
+- Exalmar
+
+- Entre otros
