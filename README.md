@@ -1,7 +1,7 @@
 ## Hola, mi nombre es José Jara
 ### Desarrollador fullstack
 
-![https://github.com/xjosejarax](https://blog.piensasolutions.com/wp-content/uploads/2017/10/bannerprogramacion.jpg)
+![https://github.com/xjosejarax](https://www.fagorelectronica.com/images/ems/tecnologia/heroe_tecnologia.jpg)
 
 Soy profesional con mas de 10 años de experiencia en varios lenguajes, analista y desarrollador de sistemas a medida.
 
